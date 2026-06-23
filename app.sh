@@ -1,0 +1,8 @@
+
+#!/bin/bash
+
+echo "🚀 Starting Application Build"
+echo "👤 User: $(whoami)"
+echo "📂 Current Directory: $(pwd)"
+
+echo "✅ Build Successful"
