@@ -5,3 +5,4 @@ AUTO CI TEST
 sample example for auto builds after adding webhooks
 Now im doing again CI integration
 This is testing of pipeline
+this is testing of pipeline
