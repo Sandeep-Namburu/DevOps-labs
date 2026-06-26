@@ -19,11 +19,10 @@ pipeline {
         stage('Deploy') {
             steps {
                 sh '''
-                echo "Deploying to EC2..."
-                cp app.txt /var/www/html/
+                echo "Deploying to Nginx web root..."
+                cp app.txt /usr/share/nginx/html/
                 '''
             }
         }
     }
 }
-
