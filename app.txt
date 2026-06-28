@@ -1,3 +1,4 @@
 Hello from Jenkins CD pipeline!
 Hey-buddy-CI/CD pipeline
 auto trigger pipeline
+auto pipeline
