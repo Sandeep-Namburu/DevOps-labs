@@ -1,0 +1,3 @@
+Hello from Jenkins CD pipeline!
+Hey-buddy-CI/CD pipeline
+Auto trigger pipeline
